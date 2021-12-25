@@ -1,0 +1,15 @@
+
+.fondo{
+    background-color: #576574;
+    color: white;
+    font-family: 'Lora', serif;
+}
+
+nav.navbar{
+    background-color: #c8d6e5;
+}
+
+.img{
+    width: 25%;
+    height: 25%;
+}
